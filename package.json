@@ -1,0 +1,16 @@
+{
+  "name": "market-king",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite --host 0.0.0.0",
+    "build": "vite build",
+    "preview": "vite preview --host 0.0.0.0"
+  },
+  "dependencies": {
+    "vite": "^6.1.0",
+    "lucide": "^0.468.0",
+    "lucide-static": "^0.468.0"
+  },
+  "devDependencies": {}
+}
